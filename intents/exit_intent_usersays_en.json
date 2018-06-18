@@ -1,0 +1,62 @@
+[
+  {
+    "id": "d99a3f03-0a3c-4335-9a6f-65bb9287d7a8",
+    "data": [
+      {
+        "text": "see you later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529254051
+  },
+  {
+    "id": "c5d9c2a7-e38f-4b4d-b087-2bd71d8bcf04",
+    "data": [
+      {
+        "text": "bye bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529254051
+  },
+  {
+    "id": "127b15d6-b7a8-4bb3-a6de-94933fb82e0c",
+    "data": [
+      {
+        "text": "Quit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529254051
+  },
+  {
+    "id": "21f61334-95ac-4614-a325-012616a0f4ae",
+    "data": [
+      {
+        "text": "Exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529254051
+  },
+  {
+    "id": "e2d5ef3d-90d2-47f1-9bb1-e98dce007379",
+    "data": [
+      {
+        "text": "Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529254051
+  }
+]
