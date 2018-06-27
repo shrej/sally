@@ -1,0 +1,184 @@
+[
+  {
+    "id": "8194c60e-dc1b-4743-bb62-23ab92f6404e",
+    "data": [
+      {
+        "text": "The phone number is ",
+        "userDefined": false
+      },
+      {
+        "text": "111 111-11111",
+        "alias": "phone",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529872122
+  },
+  {
+    "id": "ce848531-b7ad-46c9-809f-5407189e877c",
+    "data": [
+      {
+        "text": "The name of the company is ",
+        "userDefined": false
+      },
+      {
+        "text": "Nestle",
+        "alias": "company",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529865934
+  },
+  {
+    "id": "6e1df199-3663-4e2b-a105-0b4370dd9f52",
+    "data": [
+      {
+        "text": "Create a lead for ",
+        "userDefined": false
+      },
+      {
+        "text": "John",
+        "alias": "firstname",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Miller",
+        "alias": "lastname",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529865934
+  },
+  {
+    "id": "a71d017b-eeae-4d9a-aa38-24489546680f",
+    "data": [
+      {
+        "text": "create a new ",
+        "userDefined": false
+      },
+      {
+        "text": "open",
+        "alias": "status",
+        "meta": "@lead_status",
+        "userDefined": false
+      },
+      {
+        "text": " lead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529865934
+  },
+  {
+    "id": "92e7912f-0676-4838-810b-a6bd313e9a9a",
+    "data": [
+      {
+        "text": "create a new lead for ",
+        "userDefined": false
+      },
+      {
+        "text": "Jack",
+        "alias": "firstname",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529865934
+  },
+  {
+    "id": "066e5bd0-fdf9-46e7-83d0-84bd90742400",
+    "data": [
+      {
+        "text": "create a lead with name ",
+        "userDefined": false
+      },
+      {
+        "text": "John",
+        "alias": "firstname",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529865934
+  },
+  {
+    "id": "8d7ad24d-731d-4c36-adaa-f5b4386c0972",
+    "data": [
+      {
+        "text": "Lead new",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529865934
+  },
+  {
+    "id": "23d50b19-8c7c-4e85-969c-363fa4a5a7e9",
+    "data": [
+      {
+        "text": "Create lead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529865934
+  },
+  {
+    "id": "f7968c43-cf13-48ae-9c5c-fd8037000f9c",
+    "data": [
+      {
+        "text": "Add a new lead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529865934
+  },
+  {
+    "id": "4b543de5-bcac-48bd-99d8-42fb67c43b56",
+    "data": [
+      {
+        "text": "New Lead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529865934
+  },
+  {
+    "id": "6e71e270-0a8d-494a-b97c-7a9bbdaa3192",
+    "data": [
+      {
+        "text": "Create a new lead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529865934
+  }
+]

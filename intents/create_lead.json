@@ -1,0 +1,100 @@
+{
+  "id": "335d0b2c-4623-4f33-8a69-2af7ea7c79bd",
+  "name": "create_lead",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5db6ea4d-0d8e-4ec6-b2f1-f84f26815203",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "firstname",
+          "value": "$firstname",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Alright. Let\u0027s get started. What is the first name ?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "cc73f8a0-e217-4190-8132-e38b3d4b3fc7",
+          "required": true,
+          "dataType": "@sys.last-name",
+          "name": "lastname",
+          "value": "$lastname",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Got it. And Last Name ?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "72352a99-1a1e-43d8-ba6c-0240eed8633c",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "company",
+          "value": "$company",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Thank you. And where do they work ?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "0239777d-232d-4ad2-93de-07a997e441dc",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone",
+          "value": "$phone",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Cool. Do we have a phone number ?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "eeeeca71-dc69-4572-87a3-bebb12af9607",
+          "required": true,
+          "dataType": "@lead_status",
+          "name": "status",
+          "value": "$status",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Thank you Shreyans. One last thing, what is the current lead status ?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529891684,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "value": "Open - Not Contacted",
+    "synonyms": [
+      "Open - Not Contacted",
+      "Open",
+      "Not Contacted",
+      "No Contact"
+    ]
+  },
+  {
+    "value": "Working - Contacted",
+    "synonyms": [
+      "Working - Contacted",
+      "Working",
+      "Contacted"
+    ]
+  },
+  {
+    "value": "Closed - Converted",
+    "synonyms": [
+      "Closed - Converted",
+      "Converted"
+    ]
+  },
+  {
+    "value": "Closed - Not Converted",
+    "synonyms": [
+      "Closed - Not Converted",
+      "Not Converted"
+    ]
+  }
+]

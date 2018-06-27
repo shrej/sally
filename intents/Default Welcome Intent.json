@@ -16,7 +16,7 @@
           "lang": "en",
           "suggestions": [
             {
-              "title": "Leads"
+              "title": "Create a new Lead"
             },
             {
               "title": "Top Leads"
@@ -26,7 +26,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Hi! I am Sally - your personal Salesforce assistant. Say Leads to get your top 5 leads from today."
+          "speech": "Hi Shreyans!  I am Sally - your personal Salesforce assistant. Say \"Create new Lead\" to create a new lead, or say \"Top Leads\" to see your top leads for today."
         }
       ],
       "defaultResponsePlatforms": {
@@ -38,7 +38,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1529256895,
+  "lastUpdate": 1529892180,
   "fallbackIntent": false,
   "events": [
     {

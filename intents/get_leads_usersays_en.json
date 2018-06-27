@@ -1,6 +1,6 @@
 [
   {
-    "id": "f2dc4626-3092-4951-91a5-c986c2129e3e",
+    "id": "ac96b9c9-146a-4a27-a2e1-52125ced6ce0",
     "data": [
       {
         "text": "top leads",
@@ -8,71 +8,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0,
-    "updated": 1529257142
+    "count": 4,
+    "updated": 1529787194
   },
   {
-    "id": "0d1261af-8398-4e21-aa21-64a21eb7b788",
-    "data": [
-      {
-        "text": "Show leads again",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1529268064
-  },
-  {
-    "id": "7c3ac166-0917-41e2-a0a9-4fced8036eea",
-    "data": [
-      {
-        "text": "please repeat the leads",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1529257142
-  },
-  {
-    "id": "9eb552b8-d200-4744-b27f-4d0469a90895",
-    "data": [
-      {
-        "text": "Can you repeat",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1529257142
-  },
-  {
-    "id": "f245fbc6-b07b-49d5-8879-49e79a82ad59",
-    "data": [
-      {
-        "text": "repeat please",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1529257142
-  },
-  {
-    "id": "445e1848-0e97-4a3f-8928-2fa751570e75",
-    "data": [
-      {
-        "text": "again",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1529257142
-  },
-  {
-    "id": "01a9307b-5e84-4b14-9919-83b0c2ebbecf",
+    "id": "82c95f46-c8c6-4cbf-91ec-ef2405378bdb",
     "data": [
       {
         "text": "lead",
@@ -81,10 +21,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1529257142
+    "updated": 1529787194
   },
   {
-    "id": "15004bb9-28f2-47b8-8382-a831b636fee3",
+    "id": "6ef5cc25-c40a-4910-b365-7ba172fb6b41",
     "data": [
       {
         "text": "leed",
@@ -93,10 +33,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1529257142
+    "updated": 1529787194
   },
   {
-    "id": "63a1d636-affc-47c9-827b-a7c00e6ac613",
+    "id": "5ebcdca1-6f1e-440b-a234-7293854f66fd",
     "data": [
       {
         "text": "leeds",
@@ -105,22 +45,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1529257142
+    "updated": 1529787194
   },
   {
-    "id": "f0520e09-0156-46f4-9a82-d12e7e114d47",
-    "data": [
-      {
-        "text": "All the leads",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 1529257142
-  },
-  {
-    "id": "4590215b-a3c2-4792-8f68-8c6db2024ae4",
+    "id": "ed322d58-a002-4fdd-a9b5-d3c1a3a40ed3",
     "data": [
       {
         "text": "repeat",
@@ -129,30 +57,18 @@
     ],
     "isTemplate": false,
     "count": 1,
-    "updated": 1529257142
+    "updated": 1529787194
   },
   {
-    "id": "96a109ee-233b-43ee-9bb9-1580ed2a59f9",
+    "id": "2a7ee905-2423-4f99-9756-0bcfd170cd84",
     "data": [
       {
-        "text": "Give me Leads",
+        "text": "leads",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1529257142
-  },
-  {
-    "id": "6ac00e0e-fdf1-49aa-96ef-a93b36d055c3",
-    "data": [
-      {
-        "text": "Leads",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1529257142
+    "updated": 1529787194
   }
 ]

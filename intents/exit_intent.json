@@ -12,12 +12,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": [
-            "Have a great Day! Bye Bye!",
-            "Have an awesome day ahead!",
-            "Good luck! See you later",
-            "Nice Talking to you, see you later!"
-          ]
+          "speech": "See you later. Alligator."
         }
       ],
       "defaultResponsePlatforms": {},
@@ -27,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1529254054,
+  "lastUpdate": 1529892655,
   "fallbackIntent": false,
   "events": []
 }

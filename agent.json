@@ -11,7 +11,8 @@
     "endIntentIds": [
       "01c9e176-80f8-4f63-a661-9efb715f847e",
       "2d442d68-ca33-4c18-b323-7cb5f911fb00",
-      "2d9c322a-d8bb-417e-ab10-d0a8cf5d60bd"
+      "2d9c322a-d8bb-417e-ab10-d0a8cf5d60bd",
+      "335d0b2c-4623-4f33-8a69-2af7ea7c79bd"
     ],
     "oAuthLinking": {
       "required": false,
